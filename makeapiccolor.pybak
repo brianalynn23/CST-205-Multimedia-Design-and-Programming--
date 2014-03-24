@@ -1,0 +1,14 @@
+
+#This is how you turn a picture blue
+
+
+def makeBlue():
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  for p in pixels:
+    r = getRed(p)
+    g = getGreen(p)
+    setRed(p, r * .5)
+    setGreen(p, g * .5)
+  repaint(pic)

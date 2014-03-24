@@ -1,0 +1,360 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red47\green53\blue59;\red245\green245\blue245;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl240
+
+\f0\fs22 \cf2 \cb3 def WarmUpPartA():\
+  i = 0\
+  while (i < 4):\
+    name = requestString("Please enter in a string")\
+    if (name == 'stop'):\
+      break\
+    print name\
+\
+def Adventure():\
+  import random\
+  welcome = """\
+  Welcome to the Mystery House ! \
+  Command Information:\
+  Search - look around rooms\
+  Use <Object> - where object is the item that you picked up\
+  North - Move North\
+  South - Move South\
+  East - Move East\
+  West - Move West\
+  Roll - used to fight against trolls\
+  help - Pulls down help menu (this menu)\
+  exit - Exits out of game\
+            """\
+  printNow( welcome )\
+  location = 1\
+  room(location, welcome)\
+    \
+def room(location, welcome):\
+  import random\
+  enc = random.randrange(0, 100)\
+  i = location\
+  turns = 0\
+  key = false\
+  flashlight = false\
+  treasure = false \
+  while (i != 0):\
+    if(enc == turns):\
+     printNow("You have encountered a troll!!")\
+     x = trollencounter()\
+     if(x == false):\
+       printNow("You lost the game. You have 0 health!")\
+       break\
+     if(x == true):\
+       printNow("YOU DEFEATED A TROLL")\
+       i = 1\
+    if (i == 1):\
+     turns = turns + 1\
+     printNow("You are on turn: ") \
+     printNow(turns)\
+     printNow("You are in the Center room! ")\
+     move = requestString("Please give a command")\
+     if (move == 'North'):\
+       i = 2\
+     if (move == 'East'):\
+       i = 3\
+     if (move == 'South'):\
+       i = 4\
+     if (move == 'West'):\
+      i = 5\
+     if(move == 'Search' and flashlight == false):\
+       printNow("It is way to dark to see!")\
+     if(move == 'Search' and flashlight == true):\
+       printNow("You have found a key")\
+       key = true\
+     if (move == 'exit'):\
+       location = 0\
+       break\
+     if (move == 'help'):\
+       printNow(welcome)\
+       \
+    elif (i == 2):\
+      turns = turns + 1\
+      printNow("You are on turn: ") \
+      printNow(turns)\
+      printNow( 'You are in the Room North! There is a dark forrest to the North, there might be something beyond')    \
+      move = requestString(" Please give a command")\
+      if (move == 'North' and flashlight == true):\
+        printNow("Try usin' your Flashlight")\
+      if (move == 'East'):\
+        i = 3\
+      if (move == 'South'):\
+        i = 1\
+      if (move == 'West'):\
+        i = 5\
+      if (move == 'Search' and flashlight == true):\
+        printNow("Try usin' your Flashlight")\
+      if (move == 'Search' and flashlight == false):\
+        printNow("It is way to dark in here to see")\
+      if(flashlight == true and (move == 'Use Flashlight')):\
+        i = 6\
+      if (move == 'exit'):\
+        location = 0\
+        break\
+      if (move == 'help'):\
+        printNow(welcome)  \
+      if(flashlight == false):\
+        printNow('Its too dark to continue through the forrest.')   \
+    elif (i == 3):\
+      turns = turns + 1\
+      printNow("You are on turn: ") \
+      printNow(turns)\
+      printNow( 'You are in the Room East. There is a fire going with a freshly brewed cup of tea. Check it out.'  )  \
+      move = requestString(" Please give a command")\
+      if (move == 'North'):\
+        i = 2\
+      if (move == 'South'):\
+        i = 4\
+      if (move == 'West'):\
+        i = 1\
+      if (move == 'Search' and flashlight == true):\
+        printNow("There is nothing here ")\
+      if (move == 'Search' and flashlight == false):\
+        printNow("It is way to dark in here to see")\
+      if (move == 'exit'):\
+        location = 0\
+        break\
+      if (move == 'help'):\
+         printNow(welcome)  \
+      if(move == 'East'):\
+          printNow("Cannot go that way!")\
+    elif (i == 4):\
+      turns = turns + 1\
+      printNow("You are on turn: ") \
+      printNow(turns)\
+      printNow( 'You are in the South Room. It looks this used to be a Saloon. WHY IS THE RUM GONE!!')  \
+      move = requestString("Please give a command")\
+      if (move == 'East'):\
+        i = 3\
+      if (move == 'North'):\
+        i = 1\
+      if (move == 'West'):\
+        i = 5\
+      if (move == 'Search' and flashlight == true):\
+        printNow("There is nothing here ")\
+      if (move == 'Search' and flashlight == false):\
+        printNow("It is way to dark to see")\
+      if (move == 'exit'):\
+       location = 0\
+       break\
+      if (move == 'help'):\
+       printNow(welcome)  \
+      if(move == 'South'):\
+       printNow("Cannot go that way!")\
+       move = requestString("Please give a command")  \
+    elif (i == 5):\
+      printNow('You are in the Room West! There is a dim light next to a book case')   \
+      move = requestString("Please give a command")\
+      if (move == 'East'):\
+        i = 1\
+      if (move == 'South'):\
+        i = 4    \
+      if (move == 'North'):\
+        i = 2\
+      if (move == 'Search'):\
+        printNow("You have found a Flashlight!!")\
+        flashlight = true\
+      if (move == 'exit'):\
+       location = 0\
+       break\
+      if (move == 'help'):\
+       printNow(welcome)  \
+      if(move == 'West'):\
+        printNow("Cannot go that way!")\
+    elif (i == 6):\
+      printNow("You have found a Secret Cabin!!")\
+      move = requestString("Please give a command")\
+      if(move == 'Search' and flashlight == true):\
+        printNow("YOU FOUND THE TREASURE! Is there a way to unlock it!?")\
+        move = requestString("Please give a command")\
+        if(move == 'back'):\
+          move = 'South'\
+        elif(move == 'Use Key' and key == true):\
+          treasure = true\
+          printNow("YOU WON")\
+          gold = gold + x\
+          move = requestString("Level 2?: Y/N")\
+          if(move == 'Yes' or move == 'Y'):\
+            NewWorld2(welcome)\
+          else:\
+            break\
+          break\
+        else: \
+          printNow("You triggered a trap! You have lost the game")\
+          break\
+      elif(move == 'South'):\
+        i = 2\
+      elif (move == 'help'):\
+        printNow(welcome)\
+      elif (move == exit):\
+        break\
+      else:\
+        printNow("It seems you fainted and awoke in a random room")\
+        i =  random.randrange(1, 5) \
+    \
+     \
+           \
+def trollencounter():\
+  import random\
+  userdead = false\
+  trolldead = false\
+  trollcounter = 0\
+  usercounter = 0\
+  troll = 10\
+  health = 7\
+  k = 0\
+  move = requestString("To battle and defeat the troll type <Roll>")\
+  while(k < 5):\
+    k = k + 1\
+    i = random.randrange(0, 10)\
+    trolldmg = random.randrange(0, 5)\
+    if(move == 'Roll'):\
+      printNow("Damage given to Troll: ")\
+      printNow(i)\
+      trollcounter = trollcounter + i\
+      printNow("Damage recieved from Troll: ")\
+      printNow(trolldmg)\
+      usercounter = usercounter + trolldmg\
+      if(trollcounter >= troll):\
+        trolldead = true\
+        return true\
+        break\
+      elif(usercounter >= health):\
+        userdead = true\
+        return false\
+        break\
+def NewWorld2(welcome):\
+  import random\
+  printNow("Welcome to World 2.0")\
+  printNow("There are a few new items in this world! Would you like me to explain? Yes/No ")\
+  yesorno = requestString("Yes or No")\
+  gold = 0\
+  Arrows = false\
+  Bombs = false\
+  Bow = false\
+  Sword = false\
+  Shield = false\
+  new = """\
+    New to the game:\
+    ***************************************\
+    Inventory - a satchel to hold ten items\
+    Gold - To buy goods\
+    Bow - Bow for arrows\
+    Arrow - Arrows to shoot to kill trolls\
+    Bomb - Bombs for walls/trolls. If used on trolls you will retain some damage too.\
+    Sword - Used to slice and dice trolls\
+    Shield - To protect against critters. Wears and tears!\
+    Shop - Go to the shop! It's in only two locations! Watch out for critters! They are hidden!\
+    ***************************************\
+    There are also new commands/features too:\
+    You will encounter new enimies and you will use weapons to fight them\
+    """\
+  if(yesorno == 'Yes'):\
+    printNow(new)\
+  elif(yesorno == 'No'):\
+    printNow("If you need the new item menu, you will, type <help2.0> for help.")\
+    i = 1\
+    while(i != 0):\
+     x = critter(Arrows, Bombs, Bow, Sword, Shield)\
+     if(x == false):\
+       printNow("You lost the game. You have 0 health!")\
+       break\
+     if(x == true):\
+       printNow("YOU DEFEATED THE CRITTER")\
+       i = 1\
+     findGold = random.randrange(0, 5)\
+     printNow("Welcome to The Forest of Phantom Nishoba! Remember to <Search> for gold")\
+     if(i == 1):\
+       printNow("You are at the entrance of the forest!")\
+       move = requestString("Please give a command")\
+     if(move == 'Shop'):\
+       i = 6\
+     if(move == 'North'):\
+       i = 2\
+     if(move == 'South'):\
+       printNow("Cannot go that way")\
+     if(move == 'West'):\
+       i = 3\
+     if(move == 'East'):\
+       i = 4\
+     if(move == 'exit'):\
+       break\
+     if(move == 'Search'):\
+       gold = gold + findGold\
+     if(i == 2):\
+       printNow("You are at the center of the forest watch out!")\
+     if(i == 3):\
+     if(i == 4):\
+     if(i == 5):\
+     if(i == 6):\
+       printNow("Welcome to the shop!! What would like to buy")\
+       move == requestString("Type <Inventory> to see what I have. Other wise type the item you would like to buy")\
+       if(move == "Inventory"):\
+         printNow("""Arrows - 15\
+         Bombs - 25\
+         Bow - 5\
+         Sword - 17\
+         Shield - 3""")\
+       if(move == "Arrows"):\
+         gold = gold - 15\
+         Arrows = true\
+       if(move == "Bombs"):\
+         gold = gold - 25\
+         Bombs = true\
+       if(move == "Bow"):\
+         Bow = true\
+         gold = gold - 5\
+       if(move == "Sword"):\
+         Sword = true\
+         gold = gold - 17\
+       if(move == "Shield"):\
+         Shield = true\
+         gold = gold - 3\
+       if(move == 'exit'):\
+         i = 1\
+      \
+    \
+def critter(Arrows, Bombs, Bow, Sword, Shield):\
+  import random\
+  userd = false\
+  critterdead = false\
+  critter = random.randrange(1, 5)\
+  if(critter == 1):\
+    trollcounter = 0\
+    usercounter = 0\
+    troll = 10\
+    health = 7\
+    k = 0\
+    printNow("You are facing a troll!")\
+    move = requestString("To battle and defeat the troll type <Roll>")\
+    while(k < 5):\
+      k = k + 1\
+      i = random.randrange(0, 10)\
+      trolldmg = random.randrange(0, 5)\
+      if(move == 'Roll'):\
+        printNow("Damage given to Troll: ")\
+        printNow(i)\
+        trollcounter = trollcounter + i\
+        printNow("Damage recieved from Troll: ")\
+        printNow(trolldmg)\
+        usercounter = usercounter + trolldmg\
+        if(trollcounter >= troll):\
+          critterdead = true\
+          return true\
+          break\
+        elif(usercounter >= health):\
+          userd= true\
+          return false\
+        break\
+  if(critter == 2):\
+    printNow("It's a 3 foot and very angry Cockroach!")\
+  if(critter == 3):\
+  if(critter == 4):\
+  if(critter == 5):}

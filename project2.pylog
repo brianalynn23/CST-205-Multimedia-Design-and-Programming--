@@ -1,0 +1,429 @@
+<file_created time="Fri Feb 14 18:45:00 PST 2014">
+<Could not find /Users/brianalynncampbell/Documents/CST 205 Projects/grayscaleproject.pylog, creating a new logfile>
+<menu_button time="Fri Feb 14 18:45:06 PST 2014">Load Program</menu_button>
+<command_run time="Fri Feb 14 18:45:23 PST 2014">grayScale()></command_run>
+<command_run time="Fri Feb 14 18:45:41 PST 2014">grayScale()></command_run>
+<command_run time="Fri Feb 14 18:45:51 PST 2014">grayScale(picture)></command_run>
+<menu_button time="Fri Feb 14 18:45:59 PST 2014">Open Program</menu_button>
+<menu_button time="Fri Feb 14 18:46:20 PST 2014">Load Program</menu_button>
+<file_saved time="Fri Feb 14 18:46:29 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Projects/grayscale.py</file_saved>
+<file_opened time="Mon Feb 24 14:18:20 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_opened>
+<menu_button time="Mon Feb 24 14:18:22 PST 2014">Load Program</menu_button>
+<menu_button time="Mon Feb 24 14:48:11 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 24 14:48:14 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<command_run time="Mon Feb 24 14:48:22 PST 2014">grayScale()></command_run>
+<menu_button time="Mon Feb 24 14:49:44 PST 2014">Stop</menu_button>
+<menu_button time="Mon Feb 24 14:50:02 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 24 14:50:04 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<command_run time="Mon Feb 24 14:50:08 PST 2014">grayScale()></command_run>
+<menu_button time="Mon Feb 24 14:51:49 PST 2014">Stop</menu_button>
+<menu_button time="Mon Feb 24 14:52:00 PST 2014">Explain <click></menu_button>
+<menu_button time="Mon Feb 24 14:52:46 PST 2014">setGreen</menu_button>
+<menu_button time="Mon Feb 24 14:52:52 PST 2014">Undo</menu_button>
+<menu_button time="Mon Feb 24 14:52:53 PST 2014">Undo</menu_button>
+<menu_button time="Mon Feb 24 14:53:33 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 24 14:53:35 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<command_run time="Mon Feb 24 14:53:52 PST 2014">grayScale()></command_run>
+<menu_button time="Mon Feb 24 14:56:17 PST 2014">Stop</menu_button>
+<menu_button time="Mon Feb 24 14:57:20 PST 2014">Undo</menu_button>
+<menu_button time="Mon Feb 24 14:58:56 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 24 14:58:57 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<menu_button time="Mon Feb 24 14:59:08 PST 2014">Explain <click></menu_button>
+<menu_button time="Mon Feb 24 14:59:12 PST 2014">Explain makeColor</menu_button>
+<menu_button time="Mon Feb 24 14:59:47 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 24 14:59:48 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<command_run time="Mon Feb 24 14:59:53 PST 2014">grayScale()></command_run>
+<menu_button time="Mon Feb 24 15:00:39 PST 2014">Stop</menu_button>
+<menu_button time="Mon Feb 24 15:00:46 PST 2014">Explain <click></menu_button>
+<menu_button time="Mon Feb 24 15:00:50 PST 2014">Explain getPixel</menu_button>
+<menu_button time="Mon Feb 24 15:01:25 PST 2014">Explain <click></menu_button>
+<menu_button time="Mon Feb 24 15:01:29 PST 2014">Explain <click></menu_button>
+<menu_button time="Mon Feb 24 15:01:33 PST 2014">Explain getPixel</menu_button>
+<menu_button time="Mon Feb 24 15:01:59 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 24 15:02:00 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<command_run time="Mon Feb 24 15:02:04 PST 2014">grayScale()></command_run>
+<menu_button time="Mon Feb 24 15:02:30 PST 2014">Stop</menu_button>
+<menu_button time="Mon Feb 24 15:03:46 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 24 15:03:47 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<command_run time="Mon Feb 24 15:03:56 PST 2014">grayScale()></command_run>
+<menu_button time="Mon Feb 24 15:04:40 PST 2014">Stop</menu_button>
+<command_run time="Mon Feb 24 15:09:12 PST 2014">file = pickAFile()></command_run>
+<command_run time="Mon Feb 24 15:09:41 PST 2014">path = makePicture(file)></command_run>
+<command_run time="Mon Feb 24 15:09:49 PST 2014">show(path)></command_run>
+<command_run time="Mon Feb 24 15:10:18 PST 2014">setColor(getPixel(path,10,100), yellow)></command_run>
+<command_run time="Mon Feb 24 15:10:44 PST 2014">setColor(getPixel(path, 11, 100), yellow)></command_run>
+<command_run time="Mon Feb 24 15:11:06 PST 2014">setColor(getPixel(path, 13, 100), yellow)></command_run>
+<command_run time="Mon Feb 24 15:11:12 PST 2014">repaint(path)></command_run>
+<menu_button time="Mon Feb 24 15:32:53 PST 2014">New Program</menu_button>
+<file_saved time="Mon Feb 24 15:32:54 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+<file_opened time="Tue Feb 25 14:38:28 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_opened>
+<menu_button time="Tue Feb 25 14:38:35 PST 2014">Undo</menu_button>
+<menu_button time="Tue Feb 25 14:38:36 PST 2014">Undo</menu_button>
+<menu_button time="Tue Feb 25 14:38:40 PST 2014">Open Program</menu_button>
+<file_saved time="Tue Feb 25 14:38:41 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+<file_opened time="Wed Feb 26 14:36:19 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_opened>
+<menu_button time="Wed Feb 26 14:36:46 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 26 14:37:01 PST 2014">changeFlower()></command_run>
+<command_run time="Wed Feb 26 14:37:06 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Feb 26 14:37:24 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 26 14:37:33 PST 2014">changeFlower()></command_run>
+<command_run time="Wed Feb 26 14:37:37 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Feb 26 14:37:55 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 26 14:38:02 PST 2014">grayScale()></command_run>
+<command_run time="Wed Feb 26 14:38:12 PST 2014">changeFlower()></command_run>
+<command_run time="Wed Feb 26 14:39:46 PST 2014">pic = makePicture(picture)></command_run>
+<command_run time="Wed Feb 26 14:39:59 PST 2014">pic = makePicture(filename)></command_run>
+<menu_button time="Wed Feb 26 14:40:20 PST 2014">Open Program</menu_button>
+<command_run time="Wed Feb 26 14:41:26 PST 2014">c = pickAColor()></command_run>
+<command_run time="Wed Feb 26 14:41:47 PST 2014">changeFlower(c)></command_run>
+<command_run time="Wed Feb 26 14:44:04 PST 2014">pickAFile()></command_run>
+<menu_button time="Wed Feb 26 14:44:56 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Wed Feb 26 14:47:22 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 26 14:47:43 PST 2014">explore(pic)></command_run>
+<command_run time="Wed Feb 26 14:47:50 PST 2014">changeFlower()></command_run>
+<menu_button time="Wed Feb 26 14:48:39 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:39 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:40 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:40 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:41 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:41 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:42 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:42 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:43 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:43 PST 2014">Undo</menu_button>
+<menu_button time="Wed Feb 26 14:48:44 PST 2014">Undo</menu_button>
+<command_run time="Wed Feb 26 14:49:17 PST 2014">pickAFile()></command_run>
+<command_run time="Wed Feb 26 14:49:38 PST 2014">explore()></command_run>
+<command_run time="Wed Feb 26 14:49:46 PST 2014">picture = pickAFile()></command_run>
+<command_run time="Wed Feb 26 14:50:08 PST 2014">pic = makePicture(picture)></command_run>
+<command_run time="Wed Feb 26 14:50:14 PST 2014">explore(pic)></command_run>
+<menu_button time="Wed Feb 26 15:01:24 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 26 15:01:35 PST 2014">changeFlower()></command_run>
+<menu_button time="Wed Feb 26 15:08:14 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 26 15:08:19 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 26 15:08:20 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<menu_button time="Wed Feb 26 15:08:33 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 26 15:08:34 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Feb 26 15:09:01 PST 2014">changeFlower()></command_run>
+<menu_button time="Wed Feb 26 15:09:42 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 26 15:09:44 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+<file_opened time="Wed Feb 26 15:27:05 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_opened>
+<menu_button time="Wed Feb 26 15:29:58 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 26 15:29:59 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Feb 26 15:30:23 PST 2014">picture = pickAFile()></command_run>
+<command_run time="Wed Feb 26 15:30:45 PST 2014">pic = makePicture(picture)></command_run>
+<command_run time="Wed Feb 26 15:30:52 PST 2014">explore(pic)></command_run>
+<menu_button time="Wed Feb 26 15:33:36 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 26 15:33:37 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_saved>
+<file_opened time="Wed Mar 05 11:58:39 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /grayscale.py</file_opened>
+<command_run time="Wed Mar 05 12:01:25 PST 2014">pickAColor()></command_run>
+<menu_button time="Wed Mar 05 12:02:27 PST 2014">distance</menu_button>
+<menu_button time="Wed Mar 05 12:04:43 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Mar 05 12:04:57 PST 2014">Load Program</menu_button>
+<command_run time="Wed Mar 05 12:05:08 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:05:12 PST 2014">Open Program</menu_button>
+<menu_button time="Wed Mar 05 12:05:37 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:05:49 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+<file_opened time="Wed Mar 05 12:08:25 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_opened>
+<menu_button time="Wed Mar 05 12:08:26 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Mar 05 12:19:17 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:19:21 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 05 12:19:32 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:19:33 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:19:50 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:21:17 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:21:18 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:21:26 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:22:17 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:22:18 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:22:26 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:23:23 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:23:24 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:23:30 PST 2014">grayScale()></command_run>
+<command_run time="Wed Mar 05 12:24:39 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:25:15 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:25:16 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:25:23 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:26:04 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:26:05 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:26:11 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:26:59 PST 2014">Load Program</menu_button>
+<command_run time="Wed Mar 05 12:27:13 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:27:50 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:27:51 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:27:58 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:29:59 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:30:01 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:30:11 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 12:31:14 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 12:31:15 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 12:31:32 PST 2014">grayScale(160)></command_run>
+<command_run time="Wed Mar 05 12:32:10 PST 2014">grayScale(175)></command_run>
+<command_run time="Wed Mar 05 12:32:50 PST 2014">grayScale(200)></command_run>
+<menu_button time="Wed Mar 05 12:33:38 PST 2014">Load Program</menu_button>
+<command_run time="Wed Mar 05 13:54:34 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 13:54:41 PST 2014">Load Program</menu_button>
+<command_run time="Wed Mar 05 13:54:51 PST 2014">grayScale()></command_run>
+<menu_button time="Wed Mar 05 13:55:01 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:02 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:02 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:02 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:05 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:05 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:05 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:06 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:06 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:06 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:07 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:07 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:08 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:08 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:08 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 13:55:11 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 13:55:12 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/actualgrayscale.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 13:55:35 PST 2014">grayScale(175)></command_run>
+<menu_button time="Wed Mar 05 14:09:48 PST 2014">Save Program As...</menu_button>
+<file_saved time="Wed Mar 05 14:10:00 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 14:18:49 PST 2014">grayScale(175)></command_run>
+<menu_button time="Wed Mar 05 14:20:33 PST 2014">Program Area + Interactions Area</menu_button>
+<command_run time="Wed Mar 05 14:24:30 PST 2014">grayScale(180)></command_run>
+<command_run time="Wed Mar 05 14:25:12 PST 2014">grayScale(200)></command_run>
+<command_run time="Wed Mar 05 14:25:41 PST 2014">grayScale(225)></command_run>
+<command_run time="Wed Mar 05 14:30:50 PST 2014">grayScale(200)></command_run>
+<menu_button time="Wed Mar 05 14:33:13 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 14:33:14 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+<file_opened time="Wed Mar 05 15:00:29 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_opened>
+<menu_button time="Wed Mar 05 15:00:42 PST 2014">requestIntegerInRange</menu_button>
+<menu_button time="Wed Mar 05 15:00:57 PST 2014">requestInteger</menu_button>
+<menu_button time="Wed Mar 05 15:05:58 PST 2014">requestString</menu_button>
+<menu_button time="Wed Mar 05 15:06:08 PST 2014">showInformation</menu_button>
+<menu_button time="Wed Mar 05 15:17:31 PST 2014">distance</menu_button>
+<menu_button time="Wed Mar 05 15:17:41 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 15:17:42 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 15:17:42 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 15:17:43 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 15:17:43 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 15:17:44 PST 2014">Undo</menu_button>
+<menu_button time="Wed Mar 05 15:17:46 PST 2014">Redo</menu_button>
+<menu_button time="Wed Mar 05 15:18:41 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 15:18:43 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 05 15:18:51 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 15:18:52 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 05 15:19:08 PST 2014">grayScale(100)></command_run>
+<command_run time="Wed Mar 05 15:19:42 PST 2014">grayScale(165)></command_run>
+<menu_button time="Wed Mar 05 15:20:19 PST 2014">Load Program</menu_button>
+<command_run time="Wed Mar 05 15:20:53 PST 2014">grayScale(175)></command_run>
+<menu_button time="Wed Mar 05 15:42:25 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 05 15:42:26 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+<file_opened time="Thu Mar 06 12:41:50 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_opened>
+<menu_button time="Thu Mar 06 12:41:52 PST 2014">Load Program</menu_button>
+<menu_button time="Thu Mar 06 12:42:11 PST 2014">Load Program</menu_button>
+<file_saved time="Thu Mar 06 12:42:12 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<command_run time="Thu Mar 06 12:44:14 PST 2014">grayScale(100)></command_run>
+<menu_button time="Thu Mar 06 12:44:56 PST 2014">Explain <click></menu_button>
+<menu_button time="Thu Mar 06 12:45:03 PST 2014">Load Program</menu_button>
+<file_saved time="Thu Mar 06 12:45:05 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<command_run time="Thu Mar 06 12:45:13 PST 2014">grayScale(100)></command_run>
+<menu_button time="Thu Mar 06 12:45:33 PST 2014">Load Program</menu_button>
+<file_saved time="Thu Mar 06 12:45:34 PST 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+<file_opened time="Mon Mar 10 11:14:21 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_opened>
+<menu_button time="Mon Mar 10 11:14:22 PDT 2014">Load Program</menu_button>
+<command_run time="Mon Mar 10 11:14:35 PDT 2014">grayScale()></command_run>
+<command_run time="Mon Mar 10 11:14:40 PDT 2014">grayScale(200)></command_run>
+<menu_button time="Mon Mar 10 11:18:17 PDT 2014">Load Program</menu_button>
+<file_saved time="Mon Mar 10 11:18:19 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<menu_button time="Mon Mar 10 11:18:23 PDT 2014">Explain <click></menu_button>
+<menu_button time="Mon Mar 10 11:18:31 PDT 2014">Load Program</menu_button>
+<file_saved time="Mon Mar 10 11:18:32 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<menu_button time="Mon Mar 10 11:18:35 PDT 2014">Explain <click></menu_button>
+<menu_button time="Mon Mar 10 11:18:36 PDT 2014">Explain <click></menu_button>
+<menu_button time="Mon Mar 10 11:18:37 PDT 2014">Explain <click></menu_button>
+<menu_button time="Mon Mar 10 11:18:37 PDT 2014">Explain <click></menu_button>
+<menu_button time="Mon Mar 10 11:19:23 PDT 2014">Picture Tool...</menu_button>
+<menu_button time="Mon Mar 10 11:19:42 PDT 2014">Load Program</menu_button>
+<file_saved time="Mon Mar 10 11:19:44 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+<file_opened time="Mon Mar 10 14:19:38 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_opened>
+<menu_button time="Mon Mar 10 14:30:26 PDT 2014">Load Program</menu_button>
+<file_saved time="Mon Mar 10 14:30:37 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<menu_button time="Mon Mar 10 14:31:06 PDT 2014">Load Program</menu_button>
+<command_run time="Mon Mar 10 14:31:37 PDT 2014">grayScale(150)></command_run>
+<menu_button time="Mon Mar 10 14:33:54 PDT 2014">Load Program</menu_button>
+<file_saved time="Mon Mar 10 14:33:55 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<command_run time="Mon Mar 10 14:34:03 PDT 2014">grayScale(175)></command_run>
+<menu_button time="Mon Mar 10 14:34:23 PDT 2014">Load Program</menu_button>
+<file_saved time="Mon Mar 10 14:34:24 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<menu_button time="Mon Mar 10 14:34:36 PDT 2014">Load Program</menu_button>
+<file_saved time="Mon Mar 10 14:34:37 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+</file_created>
+<command_run time="Mon Mar 10 14:34:44 PDT 2014">grayScale2(175)></command_run>
+<command_run time="Mon Mar 10 14:35:47 PDT 2014">grayScale2(150)></command_run>
+<menu_button time="Mon Mar 10 14:36:22 PDT 2014">Load Program</menu_button>
+<command_run time="Mon Mar 10 14:36:31 PDT 2014">grayScale(175)></command_run>
+<menu_button time="Mon Mar 10 14:36:44 PDT 2014">Load Program</menu_button>
+<command_run time="Mon Mar 10 14:36:55 PDT 2014">grayScale2(175)></command_run>
+<menu_button time="Mon Mar 10 14:37:51 PDT 2014">Load Program</menu_button>
+<command_run time="Mon Mar 10 14:37:57 PDT 2014">grayScale2(175)></command_run>
+<menu_button time="Mon Mar 10 14:38:54 PDT 2014">Load Program</menu_button>
+<command_run time="Mon Mar 10 14:39:00 PDT 2014">grayScale2(175)></command_run>
+<menu_button time="Mon Mar 10 14:46:15 PDT 2014">writePictureTo</menu_button>
+<command_run time="Mon Mar 10 14:47:16 PDT 2014">pickAFile()></command_run>
+<menu_button time="Mon Mar 10 14:51:16 PDT 2014">requestString</menu_button>
+<menu_button time="Mon Mar 10 14:57:32 PDT 2014">Explain <click></menu_button>
+<menu_button time="Mon Mar 10 14:57:43 PDT 2014">writePictureTo</menu_button>
+<file_saved time="Mon Mar 10 15:41:42 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_saved>
+<file_opened time="Wed Mar 12 10:56:14 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor.py</file_opened>
+<menu_button time="Wed Mar 12 10:56:26 PDT 2014">Save Program As...</menu_button>
+<file_saved time="Wed Mar 12 10:56:41 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor_project2.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 12 11:00:23 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 11:00:26 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor_project2.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 12 11:00:38 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 11:00:39 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor_project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 11:00:48 PDT 2014">writePictureTo()></command_run>
+<menu_button time="Wed Mar 12 11:02:17 PDT 2014">Load Program</menu_button>
+<command_run time="Wed Mar 12 11:02:20 PDT 2014">writePictureTo()></command_run>
+<menu_button time="Wed Mar 12 11:17:03 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 11:17:04 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor_project2.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 12 11:17:12 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 11:17:13 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/spotcolor_project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 11:17:20 PDT 2014">writePictureTo()></command_run>
+<command_run time="Wed Mar 12 11:23:21 PDT 2014">chosenFile = pickAFile()></command_run>
+<command_run time="Wed Mar 12 11:23:50 PDT 2014">picture = makePicture(chosenFile)></command_run>
+<command_run time="Wed Mar 12 11:24:02 PDT 2014">show(picture)></command_run>
+<command_run time="Wed Mar 12 11:24:45 PDT 2014">chosenFile = pickAFile()></command_run>
+<command_run time="Wed Mar 12 11:25:18 PDT 2014">picture = makePicture(chosenFile)></command_run>
+<command_run time="Wed Mar 12 11:25:24 PDT 2014">show(picture)></command_run>
+<command_run time="Wed Mar 12 11:28:27 PDT 2014">writePictureTo(picture,'/Users/brianalynncampbell/Desktop/photo.jpg')></command_run>
+<menu_button time="Wed Mar 12 12:07:09 PDT 2014">Save Program As...</menu_button>
+<file_saved time="Wed Mar 12 12:07:17 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /Briana's CST 205 Project 1/project2.py</file_saved>
+<file_opened time="Wed Mar 12 15:02:11 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_opened>
+<command_run time="Wed Mar 12 15:02:40 PDT 2014">path = pickAFile()></command_run>
+<command_run time="Wed Mar 12 15:03:24 PDT 2014">pic = makePicture(file)></command_run>
+<menu_button time="Wed Mar 12 15:03:26 PDT 2014">Load Program</menu_button>
+<command_run time="Wed Mar 12 15:03:39 PDT 2014">picture = pickAFile()></command_run>
+<command_run time="Wed Mar 12 15:04:08 PDT 2014">pic = makePicture(picture)></command_run>
+<command_run time="Wed Mar 12 15:04:15 PDT 2014">show(pic)></command_run>
+<menu_button time="Wed Mar 12 15:05:36 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:05:37 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:05:52 PDT 2014">grayScale()></command_run>
+<command_run time="Wed Mar 12 15:05:57 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:06:43 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:06:44 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:06:45 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:07:23 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:07:25 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:07:26 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:07:56 PDT 2014">Load Program</menu_button>
+<command_run time="Wed Mar 12 15:07:57 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:09:59 PDT 2014">Explain <click></menu_button>
+<menu_button time="Wed Mar 12 15:10:03 PDT 2014">Explain writePictureTo</menu_button>
+<menu_button time="Wed Mar 12 15:11:28 PDT 2014">Load Program</menu_button>
+<command_run time="Wed Mar 12 15:11:37 PDT 2014">BW()></command_run>
+<menu_button time="Wed Mar 12 15:13:19 PDT 2014">Save Program</menu_button>
+<file_saved time="Wed Mar 12 15:13:19 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 12 15:13:54 PDT 2014">Save Program As...</menu_button>
+<file_saved time="Wed Mar 12 15:13:58 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 12 15:16:34 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:16:35 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:16:43 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:17:36 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:17:37 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:17:39 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:18:41 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:18:42 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:18:43 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:19:26 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:19:26 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:19:28 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:23:05 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:23:05 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<menu_button time="Wed Mar 12 15:23:22 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:23:23 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:23:24 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:24:12 PDT 2014">requestString</menu_button>
+<menu_button time="Wed Mar 12 15:27:47 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:27:48 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:27:50 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:28:50 PDT 2014">Load Program</menu_button>
+<file_saved time="Wed Mar 12 15:28:51 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Wed Mar 12 15:28:53 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Wed Mar 12 15:33:31 PDT 2014">Save Program</menu_button>
+<file_saved time="Wed Mar 12 15:33:31 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+<file_opened time="Sat Mar 15 13:03:12 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_opened>
+<menu_button time="Sat Mar 15 13:03:34 PDT 2014">Load Program</menu_button>
+<command_run time="Sat Mar 15 13:04:04 PDT 2014">grayScale2(150)></command_run>
+<menu_button time="Sat Mar 15 13:04:55 PDT 2014">Load Program</menu_button>
+<command_run time="Sat Mar 15 13:05:05 PDT 2014">BW()></command_run>
+<menu_button time="Sat Mar 15 13:05:16 PDT 2014">Load Program</menu_button>
+<command_run time="Sat Mar 15 13:05:25 PDT 2014">redAndBlueEffect()></command_run>
+<menu_button time="Sat Mar 15 13:08:57 PDT 2014">Load Program</menu_button>
+<file_saved time="Sat Mar 15 13:08:58 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
+<command_run time="Sat Mar 15 13:09:08 PDT 2014">grayScale2(100)></command_run>
+<menu_button time="Sat Mar 15 13:11:07 PDT 2014">Save Program</menu_button>
+<file_saved time="Sat Mar 15 13:11:07 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+<file_opened time="Sun Mar 23 22:26:38 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_opened>
+<menu_button time="Sun Mar 23 22:26:41 PDT 2014">Load Program</menu_button>
+<command_run time="Sun Mar 23 22:26:50 PDT 2014">grayscale(100)></command_run>
+<command_run time="Sun Mar 23 22:26:56 PDT 2014">grayScale(100)></command_run>
+<command_run time="Sun Mar 23 22:37:36 PDT 2014">grayScale(100)></command_run>
+<menu_button time="Sun Mar 23 22:38:11 PDT 2014">Load Program</menu_button>
+<command_run time="Sun Mar 23 22:38:15 PDT 2014">grayScale2(100)></command_run>
+<menu_button time="Sun Mar 23 22:38:51 PDT 2014">Load Program</menu_button>
+<command_run time="Sun Mar 23 22:39:00 PDT 2014">BW()></command_run>
+<menu_button time="Sun Mar 23 22:39:28 PDT 2014">Load Program</menu_button>
+<command_run time="Sun Mar 23 22:39:36 PDT 2014">redAndBlueEffect()></command_run>
+<menu_button time="Sun Mar 23 22:40:14 PDT 2014">Load Program</menu_button>
+<file_saved time="Sun Mar 23 22:40:17 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+<file_opened time="Mon Mar 24 14:12:32 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_opened>
+<menu_button time="Mon Mar 24 14:13:38 PDT 2014">Load Program</menu_button>
+<file_saved time="Mon Mar 24 14:13:39 PDT 2014">/Users/brianalynncampbell/Documents/CST 205 Multimedia Design and Programming  /project2.py</file_saved>
+</file_created>
